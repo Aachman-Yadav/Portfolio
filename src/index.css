@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --color-green: #000000;
+  --color-purple: #14213D;
+  --color-pink: #FCA311;
+  --color-beige: #E5E5E5;
+  --color-blue: #FFFFFF;
+}
+
+body {
+  background-color: var(--color-green);
+  font-family: 'Inter', sans-serif;
+}
